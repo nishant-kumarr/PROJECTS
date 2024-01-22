@@ -66,7 +66,7 @@ To gain a deeper understanding and clearer insights into the Peer-to-Peer File T
 
 This Peer-to-Peer File Transfer System is brought to you by:
 
-- [Viswanadha sai nissankararao](https://github.com/VSN)
+- [Viswanadha sai nissankararao](https://github.com/createunique)
 - [Nishant Kumar (me)](https://github.com/nishant-kumarr)
 
 
